@@ -1,0 +1,4 @@
+﻿  offer32.cpp
+D:\数据结构与算法\Algorithm\offer32\offer32\offer32.cpp(144,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\数据结构与算法\Algorithm\offer32\offer32\offer32.cpp(146,31): warning C4018: “<”: 有符号/无符号不匹配
+  offer32.vcxproj -> D:\数据结构与算法\Algorithm\offer32\Debug\offer32.exe
