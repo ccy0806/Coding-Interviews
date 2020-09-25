@@ -15,14 +15,16 @@ int FindMin(int arr[],int start,int end)
     else
         FindMin(arr, start, mid);
 }
-
+enum string {
+    x1,
+    x2,
+    x3 = 10,
+    x4,
+    x5,
+} x;
 int main()
 {
-    int pi = 3.1415926f;
-    float rad_to_deg = 45.0 / atan(1.0);
-   // int a[5] = { 1,2,3,4,5 };
-    //cout << a[FindMin(a, 0, 4)] << endl;
-    cout << cos(-60.0/rad_to_deg)<< endl;
+    cout << x << endl;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

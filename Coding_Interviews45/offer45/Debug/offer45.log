@@ -1,0 +1,4 @@
+﻿  offer45.cpp
+D:\数据结构与算法\Algorithm\offer45\offer45\offer45.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\数据结构与算法\Algorithm\offer45\offer45\offer45.cpp(19,27): warning C4018: “<”: 有符号/无符号不匹配
+  offer45.vcxproj -> D:\数据结构与算法\Algorithm\offer45\Debug\offer45.exe
